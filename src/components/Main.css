@@ -1,0 +1,77 @@
+*{
+    background-color: rgb(194, 197, 201);
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  width: 2px;
+  font-size: 20px;
+  padding: 28px;
+}
+
+.Container input {
+  margin-right: 50px;
+}
+.To-do {
+  border-radius: 10px;
+  border: 2px solid rgb(0, 0, 0);
+  margin-right: 50px;
+}
+.date {
+  border-radius: 10px;
+  border: 2px solid;
+  margin-right: 50px;
+}
+
+.button {
+  border: 2px solid;
+  border-radius: 30px;
+  text-align: center;
+  background-color: rgba(80, 255, 80, 0.904);
+}
+
+.button button {
+  width: 65px;
+}
+
+.AppName {
+  font-size: 43px;
+  margin-top: 35px;
+}
+
+.time {
+  border-radius: 10px;
+  border: 2px solid;
+  margin-right: 50px;
+}
+.Todo-Items {
+  display: flex;
+  justify-content: center;
+  width: 2px;
+  font-size: 20px;
+  padding: 28px;
+  margin-bottom: -23px;
+}
+
+.todo-align {
+  margin-right: 4px;
+}
+.todo-button {
+  border: 2px solid;
+  border-radius: 30px;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.938);
+  width: 95px;
+  color: white;
+}
+.todo-name{
+    margin-left: 29px;
+}
+.todo-date{
+    margin-left: 1px;
+}
+.Enjoy{
+    
+    font-size: 20px;
+}
